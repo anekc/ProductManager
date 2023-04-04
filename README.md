@@ -1,2 +1,2 @@
 # ProductManager
-Desafío de Coderhose
+Desafío de Coderhouse
